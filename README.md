@@ -1,6 +1,6 @@
 # igeltools
 
-Tools for deploying and managing IGEL OS thin clients.
+Tools for deploying/testing IGEL OS thin clients.
 
 ## ISO — Unattended Install ISO Creator
 
